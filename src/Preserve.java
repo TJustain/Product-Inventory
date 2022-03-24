@@ -3,7 +3,6 @@
  * Preserve - child class of FoodItem adds the jar size to its output
  * 
  * @author Justain Tremblay
- * Student number: 040968930
  */
 import java.util.Scanner;
 

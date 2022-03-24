@@ -3,7 +3,7 @@
  * Receives inputs from user and formats and outputs a string with any food item
  * 
  * @author Justain Tremblay
- * Student number: 040968930
+ * 
  */
 import java.time.LocalDate;
 import java.util.PriorityQueue;

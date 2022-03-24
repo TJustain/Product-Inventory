@@ -3,9 +3,9 @@ import java.util.Scanner;
 import java.time.LocalDate;
 
 /**
- * Assignment 3 - program that stores food items to buy and sell as well as checking the expire date
+ * program that stores food items to buy and sell as well as checking the expire date
  * 
- * @author Justain Tremblay Student number: 040968930
+ * @author Justain Tremblay 
  *
  */
 public class ProductInventory {

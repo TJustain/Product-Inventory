@@ -3,7 +3,6 @@
  * Sweetener - child class of FoodItem adds the sweetener supplier to its output
  * 
  * @author Justain Tremblay
- * Student number: 040968930
  */
 import java.util.Scanner;
 
